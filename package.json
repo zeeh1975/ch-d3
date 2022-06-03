@@ -1,0 +1,18 @@
+{
+  "name": "desafio3",
+  "version": "1.0.0",
+  "description": "Coderhouse backend 31000, desafio 3: Servidor con Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
